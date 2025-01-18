@@ -1,0 +1,30 @@
+_repo: Observations-on-M-Laennec-s-method-of-forming-a-diagnosis-of-the-diseases-of-the-chest-by-mea__74999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scudamore, Charles
+    gutenberg_agent_id: '57765'
+    url: http://www.gutenberg.org/2009/agents/57765
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74999'
+language: en
+pgterms:marc904: https://archive.org/details/b21305882
+pgterms:marc905: 20230922120329scudamore
+pgterms:marc906: '1826'
+pgterms:marc907: GB
+production_note: deaurider, Branka P and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bLongman, Rees, Orme, Brown, and Green, $c1826.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Observations on M. Laennec's method of forming a diagnosis of the diseases
+  of the chest by means of the stethoscope, and of percussion; and upon some points
+  of the French practice of medicine
+url: http://www.gutenberg.org/ebooks/74999
